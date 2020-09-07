@@ -4,9 +4,11 @@
 		}
 .button_up {
 	padding: 0px
+	top: 10px;
 }
 body {
 	background-color: #ffe359;
+
 	
 	}
 }
